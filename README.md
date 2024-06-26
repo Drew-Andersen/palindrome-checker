@@ -3,11 +3,12 @@
 ## Description
 
 This application checks if a word or phrase is a palindrome or not.
-** Add image of website here
+
+![alt text](<Palindrome Checker.png>)
 
 ## Deployed Website
 
-**Add deployed application here
+(https://drew-andersen.github.io/palindrome-checker/)
 
 ## Installation
 
