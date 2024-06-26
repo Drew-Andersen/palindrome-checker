@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+  }
+  
+  h1{
+    background-color: #595959;
+    margin: 0px;
+  }
+  
+  #check-wrap{
+    font-size: 25px;
+    background-color: #333333;
+    color: white;
+    padding: 10px;
+  }
+  
+  #input-text{
+    font-size: 25px;
+    padding: 10px;
+  }
+  
+  #check-btn{
+    color: white;
+    background-color: orange;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  #result{
+    color: white;
+    background-color: black;
+    margin: auto;
+    padding: 10px;
+    font-size: 25px;
+  }
